@@ -13,3 +13,7 @@ console.log(payment)
 
 const upi="integrated the upi"
 console.log(upi)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 47c48d4 (save before switching)
